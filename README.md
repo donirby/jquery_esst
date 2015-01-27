@@ -4,8 +4,7 @@ This is a repository for developing jQuery applications. It is based on a lynda.
 
 ## Instructions
 
-### Additional Resources
-
+### Resources
 [jQuery Website](http://jquery.com/)
 
 [jQuery Mobile Website](http://jquerymobile.com/)
