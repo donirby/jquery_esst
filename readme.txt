@@ -1,6 +1,9 @@
 2015/01/15
-jQuery Esential Training with Joe Marini
+jQuery Essential Training with Joe Marini
 http://www.lynda.com/sdk/jQuery-tutorials/jQuery-Essential-Training/183382-2.html?autoplay=true
+http://jquery.com/ jQuery Website
+http://jquerymobile.com/ jQuery Mobile Website
+http://jqueryui.com/ jQuery UI Website
 
 2015/01/16
 Added _fonts for Chunky from Deploying Icon Fonts
